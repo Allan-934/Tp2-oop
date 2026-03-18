@@ -1,0 +1,15 @@
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\bin\Debug\net10.0\Tp2-opp.exe
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\bin\Debug\net10.0\Tp2-opp.deps.json
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\bin\Debug\net10.0\Tp2-opp.runtimeconfig.json
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\bin\Debug\net10.0\Tp2-opp.dll
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\bin\Debug\net10.0\Tp2-opp.pdb
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.AssemblyInfoInputs.cache
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.AssemblyInfo.cs
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.csproj.CoreCompileInputs.cache
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.sourcelink.json
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.dll
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\refint\Tp2-opp.dll
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.pdb
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\Tp2-opp.genruntimeconfig.cache
+C:\Users\adecugis\OneDrive - Lycée Édouard Gand\Documents\C#\mes-projets\projets-csharp\Tp2-oop-or\obj\Debug\net10.0\ref\Tp2-opp.dll
