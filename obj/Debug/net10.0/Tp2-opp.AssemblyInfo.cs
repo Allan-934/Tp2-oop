@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tp2-opp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de1faa2c8ddc4dfcb60f75846b754be8d17f1151")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6ea12b864c72eea6744c696f4200a881e1c3c0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tp2-opp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tp2-opp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

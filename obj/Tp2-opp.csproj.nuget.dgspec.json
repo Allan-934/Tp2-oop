@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop\\Tp2-opp.csproj": {}
+    "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop-or\\Tp2-opp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop\\Tp2-opp.csproj": {
+    "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop-or\\Tp2-opp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop\\Tp2-opp.csproj",
+        "projectUniqueName": "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop-or\\Tp2-opp.csproj",
         "projectName": "Tp2-opp",
-        "projectPath": "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop\\Tp2-opp.csproj",
+        "projectPath": "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop-or\\Tp2-opp.csproj",
         "packagesPath": "C:\\Users\\adecugis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop\\obj\\",
+        "outputPath": "C:\\Users\\adecugis\\OneDrive - Lycée Édouard Gand\\Documents\\C#\\mes-projets\\projets-csharp\\Tp2-oop-or\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
