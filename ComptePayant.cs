@@ -1,11 +1,7 @@
-public class ComptePayant
+public class ComptePayant: Compte 
 {
     private int commision;
     private int nombreOperations = 0;
-    // attribut copie de compte.cs
-    private int numero;
-    private string nom = string.Empty;
-    private double solde;
 
     // Getters
     public int GetCommission() { return commision; }
@@ -24,21 +20,16 @@ public class ComptePayant
     public void SetNom(string nom) { this.nom = nom; }
     public void SetSolde(double solde) { this.solde = solde; }
 
-    public void Crediter(double montant)
+    public void Crediter(int nombreOperations)
     {
-        solde += montant;
-        nombreOperations++;
+        this.nombreOperations++; 
     }
 
-    public bool Debiter(double montant)
+    public bool Debiter(int nombreOperations, double solde)
     {
-        if (montant <= solde)
-        {
-            solde -= montant;
-            nombreOperations++;
+            this.nombreOperations++;
+            solde -= commision;
             return true;
-        }
-        return false;
     }
 
     public void Transferer(Compte destinataire, double montant)
@@ -47,6 +38,8 @@ public class ComptePayant
         {
             destinataire.Crediter(montant);
             nombreOperations++;
+            solde -= commision;
+
         }
     }
 

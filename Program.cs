@@ -12,7 +12,7 @@ class Program
             compte1.SetSolde(1000);
 
             Compte compte2 = new Compte();
-            compte2.SetNumero(2);
+            compte2.SetNumero(2); 
             compte2.SetNom("Bob");
             compte2.SetSolde(500);
 
